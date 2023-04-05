@@ -1,0 +1,9 @@
+   {
+       "type": "MOD_INFO",
+       "category": "misc_additions",
+       "id": "Optimization",
+       "name": "自用优化",
+       "description": "一些自用的优化",
+       "maintainers": ["月下月影"],
+       "dependencies": ["dda"]
+   }

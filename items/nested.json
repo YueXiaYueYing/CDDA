@@ -1,0 +1,12 @@
+{
+    "id": "nested_standard_battery",
+    "type": "nested_category",
+    "activity_level": "LIGHT_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "name": "standard batteries",
+    "description": "Recipes related to constructing standard rechargeable batteries.",
+    "skill_used": "electronics",
+    "nested_category_data": [ "UPS_off","light_battery_cell", "medium_battery_cell", "medium_plus_battery_cell", "heavy_battery_cell", "heavy_plus_battery_cell" ],
+    "difficulty": 3
+  }

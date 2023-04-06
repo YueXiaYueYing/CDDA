@@ -1,0 +1,23 @@
+[
+  {
+    "type": "material",
+    "id": "mil_composite",
+    "name": "军用复合材料",
+    "density": 8.0,
+    "bash_resist": 11,
+    "specific_heat_liquid": 1,
+    "specific_heat_solid": 1,
+    "latent_heat": 333,
+    "cut_resist": 11,
+    "bullet_resist": 7.5,
+    "acid_resist": 10,
+    "fire_resist": 10,
+    "chip_resist": 20,
+    "reinforces": true,
+    "repaired_with": "mil_lump",
+    "dmg_adj": [ "marked", "dented", "smashed", "shattered" ],
+    "bash_dmg_verb": "dented",
+    "cut_dmg_verb": "scratched",
+    "burn_products": [ [ "scrap", 2 ] ]
+  }
+]

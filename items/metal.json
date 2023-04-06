@@ -1,0 +1,21 @@
+[
+  {
+    "id": "mil_lump",
+    "type": "AMMO",
+    "category": "spare_parts",
+    "name": { "str": "军用复合金属块" },
+    "description": "一块从军用复合装甲中分解出的复合金属块，用于修理和制作。",
+    "weight": "1250 g",
+    "volume": "126 ml",
+    "price": 2750,
+    "price_postapoc": 125,
+    "bashing": 12,
+    "to_hit": -4,
+    "stack_size": 2,
+    "material": [ "mil_composite" ],
+    "symbol": ",",
+    "color": "green",
+    "ammo_type": "components",
+    "qualities": [ [ "HAMMER", 1 ] ]
+  }
+]

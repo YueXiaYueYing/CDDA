@@ -18,6 +18,6 @@
     "dmg_adj": [ "marked", "dented", "smashed", "shattered" ],
     "bash_dmg_verb": "dented",
     "cut_dmg_verb": "scratched",
-    "burn_products": [ [ "scrap", 2 ] ]
+    "burn_products": [ [ "mil_lump", 2 ] ]
   }
 ]
